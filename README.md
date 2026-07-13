@@ -13,7 +13,7 @@ Design and SPICE simulation of a two-stage Operational Transconductance Amplifie
 
 ## Report
 
-📄 [Read the full report](docs/OTA_Report.pdf)
+📄 [Read the full report](OTA%20REPORT%20.pdf)
 
 ## Team
 
