@@ -1,2 +1,2 @@
 ## 📄 Full Report
-Read the complete report: [OTA_Report.pdf](docs/OTA_Report.pdf)
+Read the complete report: [OTA Report.pdf](docs/OTA Report.pdf)
