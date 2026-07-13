@@ -15,9 +15,6 @@ Design and SPICE simulation of a two-stage Operational Transconductance Amplifie
 
 📄 [Read the full report](OTA%20REPORT%20.pdf)
 
-## Team
 
-Mentees: Sai Easwar, Aarav Balaji, Vishva, Pratham, Suhail
-Mentors: Garvit, Kaustubh, Rakesh, Mohnish
 
 NITK Surathkal | 2026
